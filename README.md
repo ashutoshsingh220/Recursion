@@ -1,7 +1,8 @@
 # Recursion
 
 ## Aim 
-To study Recursion
+
+To understand and implement Recursion in C++
 
 ## Theory
 ### Definition
